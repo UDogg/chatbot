@@ -9,4 +9,4 @@ Don't forget to extract.
 [https://huggingface.co/TheBloke/Wizard-Vicuna-7B-Uncensored-GGML/tree/main](https://huggingface.co/TheBloke/Wizard-Vicuna-7B-Uncensored-GGML/tree/main)\
 [https://github.com/rustformers/llm](https://github.com/rustformers/llm)\
 [Code to the moon](https://www.youtube.com/watch?v=vAjle3c9Xqc)\
-for more details.\
+for more details.
