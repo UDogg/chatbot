@@ -59,6 +59,11 @@ cfg_if! {
                 context_size: 2048,
                 lora_adapters: None,
                 use_gpu: true,
+                gpu_layers: Some(3),  // Set to your desired value as usize
+                rope_overrides: Some(llm::RoPEOverrides {
+                    frequency_scale: 1.0,  // Set to your desired value
+                    frequency_base: 1, 
+                }),
             };
 
             llm::load::<Llama>(

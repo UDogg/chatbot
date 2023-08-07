@@ -1,3 +1,6 @@
+DOWNLOAD Wizard-Vicuna-7B-Uncensored.ggmlv3.q8_0.bin from https://huggingface.co/TheBloke/Wizard-Vicuna-7B-Uncensored-GGML/tree/main make a .env file and set MODEL_PATH = /path/to/model.bin 
+Don't forget to extract.
+
 <picture>
     <source srcset="https://raw.githubusercontent.com/leptos-rs/leptos/main/docs/logos/Leptos_logo_Solid_White.svg" media="(prefers-color-scheme: dark)">
     <img src="https://raw.githubusercontent.com/leptos-rs/leptos/main/docs/logos/Leptos_logo_RGB.svg" alt="Leptos Logo">
